@@ -1,0 +1,14 @@
+Package: rhealpix
+Type: Package
+Title: Implementation of the Healpix pixelization scheme
+Version: 1.0
+Date: 2011-01-25
+Author: Maurizio Tomasi
+Maintainer: Maurizio Tomasi <maurizio.tomasi@unimi.it>
+Description: This package provides a implementation in pure R of the Healpix
+	     pixelization routine as described by Gorski et al. (2003) and
+	     implemented by the Healpix package. It has a number of utilities
+             for needlet calculation as well.
+Depends: rfitsio
+License: GPL-2
+LazyLoad: yes

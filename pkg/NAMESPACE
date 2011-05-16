@@ -1,0 +1,4 @@
+export(in.ring,
+       ring.num,
+       read.alm,
+       read.map)
